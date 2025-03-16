@@ -1,0 +1,12 @@
+[
+    {"type": "single", "question": "What is the capital of France?", "options": ["Paris", "London", "Berlin", "Madrid"], "answer": "Paris"},
+    {"type": "true or false", "question": "The Earth is flat.", "answer": false},
+    {"type": "multiple", "question": "Which are programming languages?", "options": ["Python", "HTML", "Java", "CSS"], "answer": ["Python", "Java"]},
+    {"type": "single", "question": "What is 2 + 2?", "options": ["3", "4", "5", "6"], "answer": "4"},
+    {"type": "true or false", "question": "Flutter is a framework by Google.", "answer": true},
+    {"type": "multiple", "question": "Which are Flutter widgets?", "options": ["Scaffold", "Button", "Div", "Container"], "answer": ["Scaffold", "Container"]},
+    {"type": "single", "question": "Which planet is known as the Red Planet?", "options": ["Venus", "Mars", "Jupiter", "Saturn"], "answer": "Mars"},
+    {"type": "true or false", "question": "Dart is a compiled language.", "answer": true},
+    {"type": "multiple", "question": "Which are mobile OS?", "options": ["Android", "iOS", "Windows", "Linux"], "answer": ["Android", "iOS"]},
+    {"type": "single", "question": "What is the largest ocean?", "options": ["Atlantic", "Indian", "Arctic", "Pacific"], "answer": "Pacific"}
+]
