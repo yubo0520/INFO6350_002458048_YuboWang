@@ -1,0 +1,2 @@
+/Users/bliu6/Downloads/exercise4/android/app/.cxx/Debug/2j3a5a6l/x86/CMakeFiles/edit_cache.dir
+/Users/bliu6/Downloads/exercise4/android/app/.cxx/Debug/2j3a5a6l/x86/CMakeFiles/rebuild_cache.dir

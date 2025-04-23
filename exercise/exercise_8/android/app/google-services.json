@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9605920901",
+    "project_id": "auth-spring2025",
+    "storage_bucket": "auth-spring2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9605920901:android:389fa3fd77fab3505b91ec",
+        "android_client_info": {
+          "package_name": "com.example.flutter_backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9605920901-931hec2stn1e0lgr67meu4cd58thpcki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ5xzyA2k4w120o187weiLF0p8UA0LsEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9605920901-931hec2stn1e0lgr67meu4cd58thpcki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

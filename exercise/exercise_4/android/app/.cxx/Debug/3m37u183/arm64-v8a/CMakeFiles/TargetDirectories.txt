@@ -1,0 +1,2 @@
+/Users/bliu6/CodeAhri/INFO6350/exercise4/android/app/.cxx/Debug/3m37u183/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/bliu6/CodeAhri/INFO6350/exercise4/android/app/.cxx/Debug/3m37u183/arm64-v8a/CMakeFiles/rebuild_cache.dir
